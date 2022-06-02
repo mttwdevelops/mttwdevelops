@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mttwdevelops
+- 👀 I’m interested in becoming a data analyst
+- 🌱 I’m currently learning Python, bash, tableau
