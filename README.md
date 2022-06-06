@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mttwdevelops
-- 👀 I’m interested in becoming a data analyst
-- 🌱 I’m currently learning Python, bash, tableau
+@mttwdevelops
+Currently focused on becoming a data analyst/scientist
+Contains my work so far. Hope you take a look and maybe we can connect.
