@@ -4,7 +4,7 @@
 
 - <b>Homelab</b>
   - DOCUMENTATION NOT YET PUBLIC
-- <b>Ad-Hoc Projects</b>
+- <b>Ad-Hoc</b>
   - [Advanced Debug Menu Tutorial](https://github.com/mttwdevelops/AdHocProjects/blob/main/ADB_BOOXNoteAir2.md)
 - <b>[InfoSec Notebook](https://github.com/mttwdevelops/InfoSecNotebook)</b>
 - <b>Data Analytics</b>
