@@ -4,12 +4,12 @@
 
 - <b>Homelab</b>
   - DOCUMENTATION NOT YET PUBLIC
+- <b>Ad-Hoc Projects</b>
+  - [Advanced Debug Menu Tutorial](https://github.com/mttwdevelops/AdHocProjects/blob/main/ADB_BOOXNoteAir2.md)
 - <b>[InfoSec Notebook](https://github.com/mttwdevelops/InfoSecNotebook)</b>
 - <b>Data Analytics</b>
   - [Data Breach Analysis](https://github.com/mttwdevelops/Data_Breach_Analysis)
   - [Regression Analysis - Boston Housing Prices](https://github.com/mttwdevelops/Regression-Analysis-Boston-Historic-Housing-Prices)
-- <b>Ad-Hoc Projects</b>
-  - [Advanced Debug Menu Tutorial](https://github.com/mttwdevelops/AdHocProjects/blob/main/ADB_BOOXNoteAir2.md)
 - <b>Python</b>
   - [Practice Files](https://github.com/mttwdevelops/Practice-Files)
 
